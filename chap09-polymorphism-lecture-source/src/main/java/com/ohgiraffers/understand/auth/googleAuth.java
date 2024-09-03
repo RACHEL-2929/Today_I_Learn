@@ -2,7 +2,7 @@ package main.java.com.ohgiraffers.understand.auth;
 
 import main.java.com.ohgiraffers.understand.dto.MemberDTO;
 
-public class googleAuth implements SnsAuth {
+public class googleAuth implements SnsAuth {    
     private static int i;
     private static MemberDTO[] memberDTOS = new MemberDTO[10];
 

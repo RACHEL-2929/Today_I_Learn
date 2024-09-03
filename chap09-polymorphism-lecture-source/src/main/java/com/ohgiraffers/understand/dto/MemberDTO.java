@@ -1,7 +1,7 @@
 package main.java.com.ohgiraffers.understand.dto;
 
 public class MemberDTO {
-    //사용자가 로그인을 하기 위한 정보를 담는다.
+    //사용자가 로그인을 하기 위한 정보를 담는다.   
 
     private String id;
     private String pwd;

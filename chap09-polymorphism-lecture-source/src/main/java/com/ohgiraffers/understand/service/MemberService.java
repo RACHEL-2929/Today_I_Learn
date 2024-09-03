@@ -45,6 +45,6 @@ public class MemberService{
             naverAuth naverAuth = new naverAuth();
             naverAuth.signUp(memberDTO);
 
-        } else System.out.println("잘못 입력하셨습니다.");
+        } else System.out.println("잘못 입력하셨습니다.");  
     }
 }
